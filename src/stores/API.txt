@@ -1,0 +1,27 @@
+API =
+7991905263c806d671c522aecf186c1f
+
+1.
+Paris =
+ 48.8566 , 2.3522
+api.openweathermap.org/data/2.5/forecast?lat=48.8566&lon=2.3522&appid=7991905263c806d671c522aecf186c1f
+
+โรม, อิตาลี   41.9028  12.4964 =
+api.openweathermap.org/data/2.5/forecast?lat=41.9028&lon=2.3522&appid=7991905263c806d671c522aecf186c1f
+
+3.
+โตเกียว, ประเทศญี่ปุ่น   35.6895  139.6917
+api.openweathermap.org/data/2.5/forecast?lat=35.6895&lon=139.6917&appid=7991905263c806d671c522aecf186c1f
+
+
+
+4.
+Chiang Mai 18.7877 98.9931
+api.openweathermap.org/data/2.5/forecast?lat=18.7877&lon=98.9931&appid=7991905263c806d671c522aecf186c1f
+
+5.Bern,Switzerland  46.8182  8.2275 -76.2538974098341, 50.957200124603894
+api.openweathermap.org/data/2.5/forecast?lat=-76.2538974098341&lon=50.957200124603894&appid=7991905263c806d671c522aecf186c1f
+
+6. Greenland 76.8074 -42.39296
+
+api.openweathermap.org/data/2.5/forecast?lat=76.8074&lon=-42.39296&appid=7991905263c806d671c522aecf186c1f
